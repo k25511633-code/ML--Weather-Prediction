@@ -74,7 +74,7 @@ print("Average CV Score:", cv_scores.mean())
 
 ## Output:
 
-<img width="1058" height="210" alt="image" src="https://github.com/user-attachments/assets/3281dea1-57b9-4aad-a450-28157a2121b6" />
+<img width="585" height="780" alt="image" src="https://github.com/user-attachments/assets/43142799-4b97-4932-aaf8-273e99e81623" />
 
 ## Result:
 The Random Forest model was successfully implemented for weather prediction. It gave good accuracy with low error and reliable results.
